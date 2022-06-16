@@ -21,8 +21,10 @@
  
 ![WhatsApp Image 2022-06-16 at 3 59 55 PM](https://user-images.githubusercontent.com/93427201/174052319-bd0b7902-a47b-44be-82f9-0c4e6c71268c.jpeg)
 
+### OUTPUT:
+
+![WhatsApp Image 2022-06-16 at 4 11 55 PM](https://user-images.githubusercontent.com/93427201/174053981-5ff7548f-7956-4ce4-9890-74c41f7fec60.jpeg)
 
 ### RESULTS:
 
-![WhatsApp Image 2022-06-16 at 3 59 55 PM (1)](https://user-images.githubusercontent.com/93427201/174052330-12453d42-a3b8-44e5-a1cd-7f514b033ebc.jpeg)
-
+The standard procedure to interface an FPGA board and flashing method using usb blaster has been understod.
